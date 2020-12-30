@@ -24,7 +24,6 @@
         "drupal/geofield_map": "^2.67",
         "drupal/insert": "^1.0",
         "drupal/leaflet": "1.11",
-        "drupal/leaflet_widget": "^2.0@alpha",
         "drupal/social_media_links": "^2.7"
     },
     "conflict": {
