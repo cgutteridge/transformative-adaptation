@@ -20,7 +20,10 @@
         "drupal/core-composer-scaffold": "^8.8",
         "drupal/core-project-message": "^8.8",
         "drupal/core-recommended": "^8.8",
-        "drupal/core-vendor-hardening": "^8.8"
+        "drupal/core-vendor-hardening": "^8.8",
+        "drupal/geofield_map": "^2.67",
+        "drupal/insert": "^1.0",
+        "drupal/social_media_links": "^2.7"
     },
     "conflict": {
         "drupal/drupal": "*"
