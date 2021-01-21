@@ -26,6 +26,7 @@
         "drupal/leaflet": "^2.1",
         "drupal/leaflet_views": "^2.1",
         "drupal/pathauto": "^1.8",
+        "drupal/slick": "^2.2",
         "drupal/social_media_links": "^2.7"
     },
     "conflict": {
