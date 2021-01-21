@@ -23,8 +23,9 @@
         "drupal/core-vendor-hardening": "^8.8",
         "drupal/geofield_map": "^2.67",
         "drupal/insert": "^1.0",
+        "drupal/leaflet": "^2.1",
+        "drupal/leaflet_views": "^2.1",
         "drupal/pathauto": "^1.8",
-        "drupal/slick_carousel_slider": "^1.0",
         "drupal/social_media_links": "^2.7"
     },
     "conflict": {
