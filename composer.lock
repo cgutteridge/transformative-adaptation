@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "39eddabd7c079d1a05eeb187d6c546d8",
+    "content-hash": "143baa5b93741c2d4cb8977da8c102c6",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -5047,6 +5047,25 @@
                 "stream-wrapper"
             ],
             "time": "2019-12-10T11:53:27+00:00"
+        },
+        {
+            "name": "vardot/slick",
+            "version": "1.6.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Vardot/slick.git",
+                "reference": "069af9439c9d210351f35d215d2971ddf6ad2dac"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Vardot/slick/zipball/069af9439c9d210351f35d215d2971ddf6ad2dac",
+                "reference": "069af9439c9d210351f35d215d2971ddf6ad2dac",
+                "shasum": ""
+            },
+            "type": "drupal-library",
+            "notification-url": "https://packagist.org/downloads/",
+            "description": "forked from kenwheeler/slick to be used as drupal-library",
+            "time": "2017-07-16T11:15:45+00:00"
         }
     ],
     "packages-dev": [],
