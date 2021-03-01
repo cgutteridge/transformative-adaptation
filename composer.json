@@ -21,6 +21,7 @@
         "drupal/core-project-message": "^8.8",
         "drupal/core-recommended": "^8.8",
         "drupal/core-vendor-hardening": "^8.8",
+        "drupal/creative_responsive_theme": "^2.0",
         "drupal/entity_browser": "^2.5",
         "drupal/entity_usage": "^2.0@beta",
         "drupal/geofield_map": "^2.67",
