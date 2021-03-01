@@ -24,6 +24,7 @@
         "drupal/creative_responsive_theme": "^2.0",
         "drupal/entity_browser": "^2.5",
         "drupal/entity_usage": "^2.0@beta",
+        "drupal/fontawesome": "^2.17",
         "drupal/geofield_map": "^2.67",
         "drupal/insert": "^1.0",
         "drupal/layout_paragraphs": "^1.0@beta",
